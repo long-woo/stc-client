@@ -1,0 +1,15 @@
+{
+  "name": "@lwstc/es_core",
+  "version": "1.0.0",
+  "description": "stc 客户端（ts/js）库的基础库",
+  "type": "module",
+  "module": "dist/es_core.js",
+  "types": "dist/es_core.d.ts",
+  "exports": {
+    ".": {
+      "import": "./src/index.ts",
+      "require": "./src/index.ts"
+    },
+    "./*": "./src/index.ts"
+  }
+}

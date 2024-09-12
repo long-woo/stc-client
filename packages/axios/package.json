@@ -1,0 +1,9 @@
+{
+  "name": "@lwstc/axios",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "@lwstc/es_core": "workspace:*",
+    "axios": "^1.7.7"
+  }
+}

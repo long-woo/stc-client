@@ -1,0 +1,6 @@
+[install]
+auto = "auto"
+registry = "https://registry.npmmirror.com"
+
+[install.scopes]
+jsr = "https://npm.jsr.io"
